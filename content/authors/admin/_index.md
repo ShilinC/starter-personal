@@ -20,10 +20,10 @@ education:
   courses:
     - course: Doctor of Philosophy
       institution: University of California, San Diego
-      year: 2023
+      year: 2021
     - course: Master of Science
       institution: University of California, San Diego
-      year: 2014
+      year: 2019
     - course: Bachelor of Science
       institution: University of Science and Technology of China
       year: 2016
