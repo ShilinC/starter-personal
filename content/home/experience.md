@@ -25,7 +25,6 @@ experience:
   - title: Research Scientist
     company: Pixar Animation Studios
     company_url: ''
-    company_logo: pixar
     location: California
     date_start: '2022-01-01'
     date_end: ''
