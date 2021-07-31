@@ -61,7 +61,7 @@ experience:
         * Explore real-time rendering solutions
 
 
-  - title: R&D Intern
+  - title: R&D Imagineer Intern
     company: Walt Disney Imagineering
     company_url: ''
     location: Anaheim, California
