@@ -34,4 +34,4 @@ I received Ph.D. in computer science (Google PhD Fellow) in 2021. I am deeply ho
 
 Contributing technology for storytelling gives me lots of joy in my life. As part of the Walt Disney family, I believe any sufficiently advanced technology is indistinguishable from magic. We stand behind every pixel on the screen.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} <!-- Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
