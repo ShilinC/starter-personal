@@ -25,15 +25,28 @@ experience:
   - title: Research Scientist
     company: Pixar Animation Studios
     company_url: ''
-    location: California
+    location: Emeryville, California
     date_start: '2022-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Research graphics algorithms
+        * Research graphics algorithms on RENDERMAN
         * Develop tools for artistic use
         * Support studio whenever needed
+
+  - title: Rendering Research Intern
+    company: Weta Digital VFX
+    company_url: ''
+    location: Wellington, New Zealand
+    date_start: '2021-02-15'
+    date_end: '2021-06-10'
+    description: |2-
+        Responsibilities include:
+        
+        * Develop new light transport algorithm
+        * Build new features into MANUKA renderer
+        * Fix legacy code bugs
 
 design:
   columns: '2'
