@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: shilin@pixar.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shilin-zhu-5326b488/
@@ -35,6 +35,6 @@ I am a Rendering Research Scientist at Pixar Animation Studios. My job is to pow
 
 I received Ph.D. in computer science (Google PhD Fellow) in 2021. I am deeply honored to have worked with talented people at other institutions including Apple (2018), Disney Research (2019), Walt Disney Imagineering (2019), and Weta Digital VFX (2021).
 
-Watching things I developed contributing to storytelling gives me lots of joy in my life. As part of the Walt Disney family, I believe any sufficiently advanced technology is indistinguishable from magic. We stand behind every pixel on the screen.
+Contributing technology for storytelling gives me lots of joy in my life. As part of the Walt Disney family, I believe any sufficiently advanced technology is indistinguishable from magic. We stand behind every pixel on the screen.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
