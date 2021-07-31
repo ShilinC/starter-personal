@@ -7,9 +7,6 @@ interests:
   - Rendering
   - Filmmaking
 social:
-  - icon: envelope
-    icon_pack: fab
-    link: shilin@pixar.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shilin-zhu-5326b488/
