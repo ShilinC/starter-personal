@@ -11,10 +11,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shilin-zhu-5326b488/
 organizations:
-  - name: Ph.D. Candidate (Graduate Soon)
+  - name: Ph.D. Candidate
   - name: University of California, San Diego
     url: https://www.ucsd.edu/
-  - name: Rendering Research Scientist (Incoming)
+  - name: Incoming Rendering Research Scientist
   - name: Pixar Animation Studios
     url: https://www.pixar.com/
 education:
@@ -28,7 +28,7 @@ education:
     - course: Bachelor of Science
       institution: University of Science and Technology of China
       year: 2016
-email: ""
+email: "shz338@eng.ucsd.edu, shilin@pixar.com"
 superuser: true
 highlight_name: false
 ---
