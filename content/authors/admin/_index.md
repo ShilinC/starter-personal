@@ -38,4 +38,4 @@ I will join Pixar Animation Studios as a Rendering Research Scientist upon gradu
 
 I am deeply honored to have worked with talented people at other institutions including Apple (2018), Disney Research (2019), Walt Disney Imagineering (2019), and Weta Digital VFX (2021).
 
-{{< icon name="download" pack="fas" >}} <!-- Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Send me an email to get my latest CV. <!-- Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
