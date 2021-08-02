@@ -1,7 +1,7 @@
 ---
 title: Shilin Zhu
 role: Rendering Research Scientist
-bio: "Ph.D. Candidate"
+bio: ""
 interests:
   - Computer Graphics
   - Rendering
@@ -11,6 +11,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shilin-zhu-5326b488/
 organizations:
+  - name: UCSD
+    url: https://www.ucsd.edu/
   - name: Pixar Animation Studios
     url: https://www.pixar.com/
 education:
