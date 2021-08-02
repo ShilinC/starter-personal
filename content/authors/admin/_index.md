@@ -11,7 +11,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shilin-zhu-5326b488/
 organizations:
-  - name: Ph.D. Candidate
+  - name: Ph.D. Candidate (Graduate Soon)
   - name: University of California, San Diego
     url: https://www.ucsd.edu/
   - name: Rendering Research Scientist (Incoming)
