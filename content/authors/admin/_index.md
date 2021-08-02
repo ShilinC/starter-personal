@@ -1,8 +1,7 @@
 ---
 title: Shilin Zhu
-role: Ph.D. Candidate
 role: Rendering Research Scientist
-bio: ""
+bio: "Ph.D. Candidate"
 interests:
   - Computer Graphics
   - Rendering
