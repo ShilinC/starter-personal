@@ -11,9 +11,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/shilin-zhu-5326b488/
 organizations:
-  - name: Ph.D. Candidate
+  <!-- - name: Ph.D. Candidate
   - name: University of California, San Diego
-    url: https://www.ucsd.edu/
+    url: https://www.ucsd.edu/ -->
   - name: Incoming Rendering Research Scientist
   - name: Pixar Animation Studios
     url: https://www.pixar.com/
