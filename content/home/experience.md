@@ -35,6 +35,19 @@ experience:
         * Develop tools for artistic use
         * Support studio whenever needed
 
+  - title: Research Intern
+    company: Pixar Animation Studios
+    company_url: ''
+    location: Emeryville, California
+    date_start: '2021-06-21'
+    date_end: '2021-09-10'
+    description: |2-
+        Responsibilities include:
+
+        * Push a novel volume denoiser to studio pipeline
+        * Add new denoising features to RENDERMAN shaders
+        * Evaluate tech prototype on new shows
+
   - title: Rendering Research Intern
     company: Weta Digital VFX
     company_url: ''
