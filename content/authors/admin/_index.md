@@ -14,6 +14,8 @@ organizations:
   - name: Research Scientist
   - name: Pixar Animation Studios
     url: https://www.pixar.com/
+  - name: The Walt Disney Company
+    url: https://thewaltdisneycompany.com/
   - name: shilin@pixar.com
 education:
   courses:
