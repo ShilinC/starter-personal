@@ -4,8 +4,8 @@ title: Dr. Shilin Zhu
 bio: ""
 interests:
   - Computer Graphics
-  - Rendering
   - Computer Vision
+  - Visual Effects
 social:
   - icon: linkedin
     icon_pack: fab
@@ -14,6 +14,7 @@ organizations:
   - name: Research Scientist
   - name: Pixar Animation Studios
     url: https://www.pixar.com/
+  - name: shilin@pixar.com
 education:
   courses:
     - course: Doctor of Philosophy
