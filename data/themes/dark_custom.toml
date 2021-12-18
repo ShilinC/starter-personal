@@ -11,7 +11,7 @@ primary = "rgb(194, 164, 242)"
 menu_primary = "rgb(20, 22, 34)"
 menu_text = "rgb(255,255,255)"
 menu_text_active = "rgb(255,255,255)"
-menu_title = "#fff"
+menu_title = "rgb(255,255,255)"
 
 # Home sections
 home_section_odd = "hsla(231, 15%, 18%, 1)"
