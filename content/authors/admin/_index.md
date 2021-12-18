@@ -32,7 +32,7 @@ email: "shz338@eng.ucsd.edu, shilin@pixar.com"
 superuser: true
 highlight_name: false
 ---
-I received my Ph.D. in Computer Science (Google PhD Fellow) at University of California, San Diego in 2021. My research stands at the intersection of graphics, vision, and photography, sometimes powered by magical machine learning. I have published more than 30 academic papers in Computer Science related fields which are recognized worldwide.
+I received my Ph.D. in Computer Science (Google PhD Fellow) at University of California, San Diego in 2021. My research stands at the intersection of graphics, vision, and photography, sometimes powered by magical machine learning. I have published more than 30 academic papers which are recognized worldwide in Computer Science related fields.
 
 I will join Pixar Animation Studios as a Research Scientist from 2022. My job is to power the filmmaking process by innovating new technology and build tools to make artists life easier in the studio. Contributing technology for storytelling gives me lots of joy in my life. As part of the Walt Disney family, I believe any sufficiently advanced technology is indistinguishable from magic. We stand behind every pixel on the screen.
 
