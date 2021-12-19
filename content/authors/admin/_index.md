@@ -40,6 +40,6 @@ On the production side, my work on efficient path sampling for rendering has bee
 
 I am deeply honored to have worked with talented people at other institutions including Apple (2018), Disney Research (2019), Walt Disney Imagineering - Theme Parks (2019), and Weta Digital VFX (2021).
 
-My favorite Walt Disney quote is "Everybody in the world was once a child. So in planning a new picture, we don't think of grown-ups, and we don't think of children, but just of that fine, clean, unspoiled spot down deep in every one of us that maybe the world has made us forget and that maybe our pictures can help recall."
+"Everybody in the world was once a child. So in planning a new picture, we don't think of grown-ups, and we don't think of children, but just of that fine, clean, unspoiled spot down deep in every one of us that maybe the world has made us forget and that maybe our pictures can help recall."  -_Walt Disney_
 
 {{< icon name="download" pack="fas" >}} Send me an email to get my latest CV. <!-- Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
