@@ -40,6 +40,6 @@ On the production side, my work on efficient path sampling for rendering has bee
 
 I am deeply honored to have worked with talented people at other institutions including <span style="color:#c8ffbd">Apple</span> (2018), <span style="color:#f4ffbd">Disney Research</span> (2019), <span style="color:#ccbdff">Walt Disney Imagineering - Theme Parks</span> (2019), and <span style="color:#ffbde1">Weta Digital VFX</span> (2021).
 
-"Everybody in the world was once a child. So in planning a new picture, we don't think of grown-ups, and we don't think of children, but just of that fine, clean, unspoiled spot down deep in every one of us that maybe the world has made us forget and that maybe our pictures can help recall."  <span style="float:right;">-Walt Disney</span>
+"Everybody in the world was once a child. So in planning a new picture, we don't think of grown-ups, and we don't think of children, but just of that fine, clean, unspoiled spot down deep in every one of us that maybe the world has made us forget and that maybe our pictures can help recall."  <span style="float:right;"><span>&#8212;</span>Walt Disney</span>
 
 {{< icon name="download" pack="fas" >}} Send me an email to get my latest CV. <!-- Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
