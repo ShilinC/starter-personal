@@ -32,8 +32,7 @@ email: "shz338@eng.ucsd.edu, shilin@pixar.com"
 superuser: true
 highlight_name: false
 ---
-I am a Research Scientist at <span style="color:#bde2ff">Pixar Animation Studios</span>
-. My job is to create lifelike pictures by innovating new computer technology, build tools to make artists life easier, and work with other Disney subsidiaries (Walt Disney Animation Studios and Disney Research Studios) to push our picture quality to a new level. Contributing technology for storytelling gives me lots of joy in my life. As part of the Walt Disney family, I believe any sufficiently advanced technology is indistinguishable from magic. We stand behind every pixel on the screen.
+I am a Research Scientist at <span style="color:#bde2ff">Pixar Animation Studios</span>. My job is to create lifelike pictures by innovating new computer technology, build tools to make artists life easier, and work with other Disney subsidiaries (<span style="color:#ffcbbd">Walt Disney Animation Studios</span> and Disney Research Studios) to push our picture quality to a new level. Contributing technology for storytelling gives me lots of joy in my life. As part of the <span style="color:#ccbdff">Walt Disney</span> family, I believe any sufficiently advanced technology is indistinguishable from magic. We stand behind every pixel on the screen.
 
 I received my Ph.D. in Computer Science (Google PhD Fellow) at University of California, San Diego in 2021. My research stands at the intersection of graphics, vision, and photography, sometimes powered by magical machine learning. I have published more than 30 academic papers which are recognized worldwide in Computer Science related fields. 
 
