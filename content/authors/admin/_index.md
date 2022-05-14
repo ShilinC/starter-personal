@@ -42,4 +42,4 @@ I am deeply honored to have worked with talented people at other institutions in
 
 <p style="font-family:Comic Sans MS">"Everybody in the world was once a child. So in planning a new picture, we don't think of grown-ups, and we don't think of children, but just of that fine, clean, unspoiled spot down deep in every one of us that maybe the world has made us forget, and that maybe our pictures can help recall."  <span style="float:right;"><span>&#8212;&#8212;</span>  Walt Disney</span></p>
 
-{{< icon name="download" pack="fas" >}} Send me an email to get my latest CV. <!-- Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
+<!--{{< icon name="download" pack="fas" >}} Send me an email to get my latest CV. Download my {{< staticref "uploads/Shilin_CV.pdf" "newtab" >}}CV{{< /staticref >}}. -->
