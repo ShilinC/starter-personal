@@ -40,7 +40,7 @@ On the production side, my work on efficient path sampling for rendering has bee
 
 I am deeply honored to have worked with talented people at other institutions including <span style="color:#c8ffbd">Apple</span> (2018), <span style="color:#f4ffbd">Disney Research</span> (2019), <span style="color:#ccbdff">Walt Disney Imagineering - Theme Parks</span> (2019), and <span style="color:#ffbde1">Weta Digital VFX</span> (2021).
 
-I appreciate a life full of courage, like an aircraft taking off from the ground, cutting through the sky, keeping forward and never ever looking back, no matter what future lies ahead.
+Here is a quote from The Little Prince that I deeply admire: "If you want to build a ship, don’t drum up the men to gather wood, divide the work and give orders. Instead, teach them to yearn for the vast and endless sea." This is no different from our mission at Disney, which is to encourage people to follow their dreams.
 
 <p style="font-family:Comic Sans MS">"Everybody in the world was once a child. So in planning a new picture, we don't think of grown-ups, and we don't think of children, but just of that fine, clean, unspoiled spot down deep in every one of us that maybe the world has made us forget, and that maybe our pictures can help recall."  <span style="float:right;"><span>&#8212;&#8212;</span>  Walt Disney</span></p>
 
