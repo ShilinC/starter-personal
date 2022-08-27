@@ -1,5 +1,5 @@
 ---
-title: Dr. Shilin Zhu
+title: Shilin Zhu
 <!-- role: Vision and Graphics Researcher -->
 bio: ""
 interests:
