@@ -29,11 +29,7 @@ experience:
     date_start: '2022-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Research graphics algorithms on RENDERMAN
-        * Develop tools for artistic use
-        * Support studio whenever needed
 
   - title: Research Intern
     company: Pixar Animation Studios
@@ -42,11 +38,7 @@ experience:
     date_start: '2021-06-21'
     date_end: '2021-09-10'
     description: |2-
-        Responsibilities include:
-
-        * Push a novel volume denoiser to studio pipeline
-        * Add new denoising features to RENDERMAN shaders
-        * Evaluate tech prototype on new shows
+        
 
   - title: Rendering Research Intern
     company: Weta Digital VFX
@@ -55,11 +47,7 @@ experience:
     date_start: '2021-02-15'
     date_end: '2021-06-10'
     description: |2-
-        Responsibilities include:
         
-        * Develop a new light transport algorithm
-        * Build new features into MANUKA renderer
-        * Fix legacy code bugs
 
   - title: Lab Associate Intern
     company: Disney Research
@@ -68,10 +56,7 @@ experience:
     date_start: '2019-06-20'
     date_end: '2019-09-10'
     description: |2-
-        Responsibilities include:
         
-        * Build a new 3D human capture system
-        * Explore real-time rendering solutions
 
 
   - title: R&D Imagineer Intern
@@ -81,10 +66,7 @@ experience:
     date_start: '2019-06-20'
     date_end: '2019-09-10'
     description: |2-
-        Responsibilities include:
         
-        * Work with imagineers to develop new theme park technology
-        * Support other imagineers on data collection
 
   - title: R&D Intern
     company: Apple
@@ -93,10 +75,7 @@ experience:
     date_start: '2018-06-20'
     date_end: '2018-09-10'
     description: |2-
-        Responsibilities include:
         
-        * Develop new image processing features 
-        * Improve render and display pipeline
 
 design:
   columns: '2'
